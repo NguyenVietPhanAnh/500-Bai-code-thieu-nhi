@@ -26,7 +26,7 @@ int main(){
 				printf("Pair found(%d, %d)\n", A[i],A[j]);
 				k++;
 			}else if(A[i]+A[j]==tong && k!=0){
-				printf("Or");
+				printf("Or\n");
 				printf("Pair found(%d, %d)\n", A[i],A[j]);
 				k++;
 			}
